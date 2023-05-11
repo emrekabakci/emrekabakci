@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Java.
+
+https://github-readme-stats.vercel.app/api?username=emrekabakci&show_icons=true&theme=dracula&count_private=true&hide_border=true
 
 <!--
 **emrekabakci/emrekabakci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
