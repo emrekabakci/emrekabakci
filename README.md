@@ -1,5 +1,6 @@
-### Hi there 👋
+<h2 align="left">Hi 👋! My name is Emre, from Turkey</h2>
 - 🌱 I’m currently learning Java.
+- 💻 Also, A person trying to become a computer engineer.
 ###
 
 <div align="center">
@@ -9,17 +10,10 @@
 
 ###
 
-<!--
-**emrekabakci/emrekabakci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<br clear="both">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/baliezgi/baliezgi/blob/output/github-contribution-grid-snake.svg)
+
+###
