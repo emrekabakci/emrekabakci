@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Emre, from Turkey</h2>
 
 - 🌱 I’m currently learning Java.
-- 💻 Also, A person trying to become a computer engineer.
 
 
 <div align="center">
